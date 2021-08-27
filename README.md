@@ -1,2 +1,2 @@
-# Trilha-de-Forma-o-em-OCC
-Cursos da trila de Formação OCC
+# Trilha-de-Formacaoo-em-OCC
+Cursos da trilha de Formação OCC
